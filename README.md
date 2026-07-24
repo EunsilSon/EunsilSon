@@ -1,16 +1,25 @@
-## Hi there 👋
+## Projects
+- 🐾 우리 애 자랑 전단지 만들기 [Go to Link](https://lookatmypet.site)
+- 🌡️ 홈 온습도 모니터링 [Go to Link](http://52.78.71.207)
 
-<!--
-**EunsilSon/EunsilSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* GitHub: https://github.com/EunsilSon
+* Blog: https://velog.io/@eunsilson
+* Email: [eunsil1023@gmail.com](mailto:eunsil1023@gmail.com)
+
+<br>
+
+## Tech Stack
+
+| Category | Skills |
+|-----------|--------|
+| **Language** | Java, Kotlin |
+| **Backend** | Spring Boot, Spring Data JPA |
+| **Frontend** | Vue.js |
+| **Database** | PostgreSQL, MySQL |
+| **Cloud & DevOps** | AWS (EC2, RDS, S3, Route 53), Docker, Jenkins |
+| **OS & Tools** | macOS, Linux, Git |
+| **AI Tools** | ChatGPT, Codex, Claude Code |
