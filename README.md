@@ -1,6 +1,6 @@
 ## Projects
 - 🐾 우리 애 자랑 전단지 만들기 [Go to Link](https://lookatmypet.site)
-- 🌡️ 홈 온습도 모니터링 [Go to Link](http://52.78.71.207)
+- 🌡️ 홈 온습도 모니터링 [Go to Link](http://homemonitoring.cloud/)
 
 <br>
 
